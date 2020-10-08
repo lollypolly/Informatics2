@@ -1,1 +1,1 @@
-# Informatics2
+# Informatics
