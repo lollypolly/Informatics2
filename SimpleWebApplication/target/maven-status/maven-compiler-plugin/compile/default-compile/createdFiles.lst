@@ -1,3 +1,12 @@
+ru\itis\dto\UserDto$UserDtoBuilder.class
+ru\itis\models\User.class
+ru\itis\repositories\UsersRepository.class
+ru\itis\repositories\UsersRepositoryJdbcImpl.class
+ru\itis\repositories\CookiesRepository.class
+ru\itis\models\User$UserBuilder.class
+ru\itis\servlets\SignInServlet.class
+ru\itis\repositories\CrudRepository.class
+ru\itis\dto\UserDto.class
+ru\itis\repositories\CookiesRepositoryJdbcImpl.class
 ru\itis\servlets\SignUpServlet.class
-ru\itis\servlets\TestServlet.class
 ru\itis\database\DAO.class

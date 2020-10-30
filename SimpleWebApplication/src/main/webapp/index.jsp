@@ -27,11 +27,11 @@
             </p>
             <p>
                 <label for="password_signup" class="you_passwd" data-icon="p">Your password </label>
-                <input id="password_signup" name="password" required="required" type="password" placeholder="eg. X8df!90EO"/>
+                <input id="password_signup" name="password" required="required" type="password" placeholder="eg. 123"/>
             </p>
             <p>
                 <label for="password_signup_confirm" class="you_passwd" data-icon="p">Please confirm your password </label>
-                <input id="password_signup_confirm" name="password_confirm" required="required" type="password" placeholder="eg. X8df!90EO"/>
+                <input id="password_signup_confirm" name="password_confirm" required="required" type="password" placeholder="eg. 123"/>
             </p>
             <p class="sign_in button">
                 <input type="submit" value="Sign up"/>

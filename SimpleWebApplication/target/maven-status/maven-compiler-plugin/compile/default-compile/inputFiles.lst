@@ -1,3 +1,10 @@
 C:\Users\pc\IdeaProjects\SimpleWebApplication\src\main\java\ru\itis\servlets\SignUpServlet.java
-C:\Users\pc\IdeaProjects\SimpleWebApplication\src\main\java\ru\itis\servlets\TestServlet.java
+C:\Users\pc\IdeaProjects\SimpleWebApplication\src\main\java\ru\itis\repositories\UsersRepositoryJdbcImpl.java
+C:\Users\pc\IdeaProjects\SimpleWebApplication\src\main\java\ru\itis\repositories\CrudRepository.java
 C:\Users\pc\IdeaProjects\SimpleWebApplication\src\main\java\ru\itis\database\DAO.java
+C:\Users\pc\IdeaProjects\SimpleWebApplication\src\main\java\ru\itis\repositories\CookiesRepository.java
+C:\Users\pc\IdeaProjects\SimpleWebApplication\src\main\java\ru\itis\repositories\UsersRepository.java
+C:\Users\pc\IdeaProjects\SimpleWebApplication\src\main\java\ru\itis\servlets\SignInServlet.java
+C:\Users\pc\IdeaProjects\SimpleWebApplication\src\main\java\ru\itis\models\User.java
+C:\Users\pc\IdeaProjects\SimpleWebApplication\src\main\java\ru\itis\dto\UserDto.java
+C:\Users\pc\IdeaProjects\SimpleWebApplication\src\main\java\ru\itis\repositories\CookiesRepositoryJdbcImpl.java
